@@ -12,7 +12,8 @@ Do not commit your data files or commpiled executables.
 
 | Section  | Available points  | Earned points  | 
 |---|---|---|
-|  Functionality | 70 |   |
+|  Functionality | 60 |   |
 |  Design | 20 |   |
 |  Style | 10 |   |
+|  Makefile | 10 |   |
 | *Total*  | *100* |   |
